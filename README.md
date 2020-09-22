@@ -1,3 +1,4 @@
 # Hello-World
 Github tutorial
-Hi this is Caroline Hickey. I have a wonderful life and feel so blessed.
+Hello my name is Caroline Hickey. I am a student at BYU. I am studying Information Systems and I am loving it!
+
